@@ -1,4 +1,4 @@
-var startPlay = function() {
+  var startPlay = function() {
     var kids = $("#row1").children();
     var index = 0;
     var iterate = function() {
